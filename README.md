@@ -7,6 +7,7 @@
 [![React](https://img.shields.io/badge/React-19.2.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **CNN 베이스라인에서 Vision Transformer 앙상블까지, 57%의 성능 향상을 달성한 연구 기록**
 
@@ -157,8 +158,14 @@ AI Engineer / Computer Vision Engineer
 
 ---
 
+## 📜 라이선스
+
+이 프로젝트는 [MIT License](LICENSE)에 따라 배포됩니다.
+
+---
+
 <div align="center">
 
-**© 2025 Seoyeon Mun. All Rights Reserved.**
+**© 2025 Seoyeon Mun. MIT License.**
 
 </div>
