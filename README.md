@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1268" height="440" alt="image" src="https://github.com/user-attachments/assets/e090c96a-9d7e-4104-b76b-c2876829fbcd" />
 
 # 📄 Document Type Classification Challenge
 
